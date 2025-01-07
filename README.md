@@ -7,7 +7,7 @@
 3. [自定义分割onnx](#chapter-two)
 
 
-## chapter-zero
+## 使用yolov8
  第一个例子是Andrey Germanov 提供 使用cpu
  https://github.com/AndreyGermanov/yolov8_inference_video_javascript   
  YOLOv8 object detection in videos in a web browser
